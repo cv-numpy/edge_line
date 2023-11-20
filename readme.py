@@ -2,7 +2,7 @@
 # image => slided into three or four parts of "image row"
 
 # the "image row" => "image col"s in the image row
-# function get-col-index()
+# function get-col-index(k)
 # {
 
         # stride_float = image_width / num
